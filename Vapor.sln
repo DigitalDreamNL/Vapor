@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vapor", "Vapor\Vapor.csproj", "{4FBA970F-F105-4409-A0F7-DE030E2EF6C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vapor.Tests", "Vapor.Tests\Vapor.Tests.csproj", "{13C37120-D5C2-47BE-8735-38730027B4A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FBA970F-F105-4409-A0F7-DE030E2EF6C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FBA970F-F105-4409-A0F7-DE030E2EF6C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FBA970F-F105-4409-A0F7-DE030E2EF6C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FBA970F-F105-4409-A0F7-DE030E2EF6C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C37120-D5C2-47BE-8735-38730027B4A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C37120-D5C2-47BE-8735-38730027B4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C37120-D5C2-47BE-8735-38730027B4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C37120-D5C2-47BE-8735-38730027B4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
